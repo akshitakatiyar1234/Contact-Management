@@ -4,10 +4,10 @@ due to error in pushing the client folder I uploaded files via drag and drop fea
 1)=>   inside client folder
         -public folder
         -src folder
-        - .gitinore file
+        -.gitinore file
         -  package.json file
         -  package-lock file 
-ignore rest of the files without folder.
+        -  readme files
 2)=>  server folder is at its place
 3)=>  library to install inside client (most of the libraries will be installed by npx-create-react-app )
    "@testing-library/jest-dom": "^5.17.0",
